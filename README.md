@@ -23,7 +23,7 @@ Ensure these resources are installed and properly configured in your server.
 
    Add the script to your `server.cfg`:
    ```
-   ensure your_script_folder_name 
+   ensure tobi_SCT 
    ```
 
 3. **Configure Door Lock IDs**
