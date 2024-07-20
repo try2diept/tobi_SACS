@@ -1,6 +1,6 @@
 ### README.md
 
-# Business Door Lock Script
+# Shops Auto Close System
 
 This script automatically locks and unlocks doors at specific in-game times and sends notifications when the doors are unlocked. The script is easily configurable via a `config.lua` file.
 
